@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|d:\\document\\ki_7\\lt_ungdungdoanhnghiep\\thuong_mai_dien_tu\\thuong_mai_dien_tu\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A4F2D-B9DF-4294-841F-E14A69E4685E}|Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu.csproj|solutionrelative:thuong_mai_dien_tu\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:31:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T15:27:54.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:48:55.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T09:43:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T10:34:43.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T16:34:05.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Program.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Program.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Program.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:24:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T07:53:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGYAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T08:50:28.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:52:56.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "chackout.html",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\wwwroot\\chackout.html",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\chackout.html",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\wwwroot\\chackout.html",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-09T10:17:40.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Data\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Data\\HoaDon.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Data\\HoaDon.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Data\\HoaDon.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:44:39.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Helpers\\DataEncryptionExtensions.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Helpers\\DataEncryptionExtensions.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:39:27.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Helpers\\MyUtil.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Helpers\\MyUtil.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Helpers\\MyUtil.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Helpers\\MyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:29:42.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:18:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Data\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\Data\\KhachHang.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\Data\\KhachHang.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\Data\\KhachHang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:19:24.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "Thuong_Mai_Dien_Tu\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "Thuong_Mai_Dien_Tu\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:37:17.47Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
