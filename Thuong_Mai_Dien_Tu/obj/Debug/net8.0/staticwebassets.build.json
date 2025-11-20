@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RS50+coSPV2vUNErZvOZj/uPihduDv/UrU76axXyzYo=",
+  "Hash": "7SJEvvmJX/hydPS11KnNTWp6rnEKli9h7lvbg4qfPZ8=",
   "Source": "Thuong_Mai_Dien_Tu",
   "BasePath": "_content/Thuong_Mai_Dien_Tu",
   "Mode": "Default",
@@ -5727,6 +5727,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Author.jpg"
+    },
+    {
+      "Identity": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\genshin.jpg",
+      "SourceId": "Thuong_Mai_Dien_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\",
+      "BasePath": "_content/Thuong_Mai_Dien_Tu",
+      "RelativePath": "Hinh/KhachHang/genshin#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m6muqfhdx8",
+      "Integrity": "zhG6yDsdhc9BGAkA7Ru38Dzim7xRXMAGR8NF5hxdp8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\genshin.jpg"
     },
     {
       "Identity": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\man.jpg",
@@ -32869,6 +32890,88 @@
       ]
     },
     {
+      "Route": "Hinh/KhachHang/genshin.jpg",
+      "AssetFile": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\genshin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhG6yDsdhc9BGAkA7Ru38Dzim7xRXMAGR8NF5hxdp8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 07:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhG6yDsdhc9BGAkA7Ru38Dzim7xRXMAGR8NF5hxdp8s="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/genshin.m6muqfhdx8.jpg",
+      "AssetFile": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\genshin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhG6yDsdhc9BGAkA7Ru38Dzim7xRXMAGR8NF5hxdp8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 07:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6muqfhdx8"
+        },
+        {
+          "Name": "label",
+          "Value": "Hinh/KhachHang/genshin.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhG6yDsdhc9BGAkA7Ru38Dzim7xRXMAGR8NF5hxdp8s="
+        }
+      ]
+    },
+    {
       "Route": "Hinh/KhachHang/man.jpg",
       "AssetFile": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\man.jpg",
       "Selectors": [],
@@ -52325,7 +52428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Nov 2025 15:27:46 GMT"
+          "Value": "Mon, 17 Nov 2025 09:38:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -52362,7 +52465,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Nov 2025 15:27:46 GMT"
+          "Value": "Mon, 17 Nov 2025 09:38:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -52407,7 +52510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Nov 2025 15:27:46 GMT"
+          "Value": "Mon, 17 Nov 2025 09:38:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -52452,7 +52555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Nov 2025 15:27:46 GMT"
+          "Value": "Mon, 17 Nov 2025 09:38:17 GMT"
         },
         {
           "Name": "Cache-Control",

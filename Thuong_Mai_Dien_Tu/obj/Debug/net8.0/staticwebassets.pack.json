@@ -345,6 +345,10 @@
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
     },
     {
+      "Id": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\genshin.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\genshin.jpg"
+    },
+    {
       "Id": "D:\\Document\\ki_7\\LT_UngDungDoanhNghiep\\Thuong_Mai_Dien_Tu\\Thuong_Mai_Dien_Tu\\wwwroot\\Hinh\\KhachHang\\man.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
     },

@@ -268,6 +268,7 @@ wwwroot\Hinh\icons\Zoom out.png
 wwwroot\Hinh\icons\Zoom.png
 wwwroot\Hinh\KhachHang\android_300200.png
 wwwroot\Hinh\KhachHang\Author.jpg
+wwwroot\Hinh\KhachHang\genshin.jpg
 wwwroot\Hinh\KhachHang\man.jpg
 wwwroot\Hinh\KhachHang\Penguins.jpg
 wwwroot\Hinh\KhachHang\woman.jpg
